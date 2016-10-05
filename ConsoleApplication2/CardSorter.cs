@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ConsoleApplication2
 {
-    /* Complexity of alghorithm is O(N) where N is number of input Cards
+    /* Complexity of algorithm is O(N) where N is number of input Cards
      O(3N) ~ O(N)
     */
     public class CardSorter
